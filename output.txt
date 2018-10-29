@@ -1,0 +1,17 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Users/neerajkeshav/Desktop/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=60459:/Users/neerajkeshav/Desktop/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/neerajkeshav/IdeaProjects/Cyclone'd/out/production/Cyclone'd Main
+
+The Distance traveled from Day 1 to Day 2 is  554.4 km
+The Distance traveled from Day 2 to Day 3 is  468.5 km
+The Distance traveled from Day 3 to Day 4 is  331.6 km
+The Distance traveled from Day 4 to Day 5 is  845.8 km
+The Distance traveled from Day 5 to Day 6 is  1170.4 km
+The Distance traveled from Day 6 to Day 7 is  1054.4 km
+The Distance traveled from Day 7 to Day 8 is  940.7 km
+The Distance traveled from Day 8 to Day 9 is  598.9 km
+The Distance traveled from Day 9 to Day 10 is  530.3 km
+The Distance traveled from Day 10 to Day 11 is  241.1 km
+The Distance traveled from Day 11 to Day 12 is  222.4 km
+The Distance traveled from Day 12 to Day 13 is  333.6 km
+The Distance traveled from Paris to San Francisco is  8952.4 km
+The Total distance traveled by Hurricane Gloria is 7292.2 km
+Process finished with exit code 0
